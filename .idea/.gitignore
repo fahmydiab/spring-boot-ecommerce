@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../:\[DesireCourse.Net] Udemy - Full Stack Angular and Spring Boot\9. eCommerce Project - Spring Boot Backend\ecommerce-project\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/libraries/
